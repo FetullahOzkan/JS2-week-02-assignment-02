@@ -18,5 +18,5 @@ const result = pArray.filter((item) => {
 } )
 return result
 };
-findSuperNumbers([455]);
+
 export { changeEmailFromGmailToHicoders, findSuperNumbers };
